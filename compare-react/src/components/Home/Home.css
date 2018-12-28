@@ -1,0 +1,20 @@
+@media screen and (min-widht: 769px), print {
+  .hero .title {
+    font-size: 2.5rem; } }
+
+@media screen and (max-widht: 1000px) {
+  .hero .title {
+    font-size: 4rem;
+    margint-top: 2rem; } }
+
+.hero h2 {
+  margin: 1.5rem 0 2rem 0 !important; }
+
+.fa-cog {
+  font-size: 40px; }
+
+#learn {
+  margin-bottom: 2rem; }
+
+.pd {
+  padding: 2em 0; }
